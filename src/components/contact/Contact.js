@@ -66,7 +66,7 @@ export const Contact = () => {
                   type="text"
                   size="small"
                   variant="filled"
-                  name="name"
+                  name="naaaaaaaaaaaame"
                   className={classes.formfield}
                 />
                 <TextField
