@@ -1,0 +1,145 @@
+{
+    "basics": {
+        "name": "Ryan Pizani",
+        "label": "Full Stack Developer",
+        "email": "ryanpizani@gmail.com",
+        "phone": "(11)981652921",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Full Stack",
+        "job2": "Developer",
+        "description": "With a three-year journey in the development market, my path as a full-stack developer has been marked by an unwavering passion for creating innovative technological solutions. During this period, I've had the opportunity to immerse myself in a variety of challenging projects, honing my skills in both front-end and back-end development. My constant pursuit of knowledge and the ability to work in multidisciplinary teams have allowed me to grow professionally and deliver high-quality products. I'm eager to continue contributing my talent and experience to drive the success of future projects.",
+        "summary": "based in São Paulo, Brasil",
+        "keywords": "",
+        "url": "",
+        "location": {
+            "address": "Seis de Junho",
+            "postalCode": "03373-033",
+            "city": "São Paulo",
+            "country": "Brasil",
+            "countryCode": "BR",
+            "region": "Analia Franco"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "rynpizani@gmail.com",
+                "url": "mailto:ryanpizani@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "ryanpizani",
+                "url": "https://www.linkedin.com/in/ryanpizani/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "rypizani",
+                "url": "https://github.com/rypizani",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Whatsapp",
+                "username": "Pizani",
+                "url": "https://wa.me/5511981652921",
+                "x_icon": "fab fa-whatsapp"
+            },
+            {
+                "network": "Telegram",
+                "username": "RyanPizani",
+                "url": "https://t.me/RyanPizani",
+                "x_icon": "fab fa-telegram-plane"
+            },
+            {
+                "network": "Discord",
+                "username": "dev.pizani",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "German",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Good knowledge"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
