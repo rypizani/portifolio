@@ -13,7 +13,7 @@ import Veritru from '../../assets/recentprojects/veritru.png';
 import Lofo from '../../assets/recentprojects/lofo.png';
 import Startup from '../../assets/recentprojects/startup.png';
 import Lacalle from '../../assets/recentprojects/lacalle.png';
-
+import malbart from '../../assets/recentprojects/MalbArt-transformed.png'
 const useStyles = makeStyles((theme) => ({
   main: {
     maxWidth: '100vw',
@@ -28,39 +28,45 @@ export const Works = () => {
     { 
       id: 1,
       title: 'Rhuna', 
-      description: `Projeto Utilizando React, Redux e Prisma. Onde você pode cotar o melhor orçamento para seu casamento!`,
-      alter: 'Portal Noivas',
-      image: `${Portfolio}`,
+      description: `Rhuna, a project management platform, I am a founding partner and developer of it.
+      Technologies: Angular, Sequelize, Mysql, Theory of Graphs, Web Socket, Node.Js.`,
+      alter: 'Rhuna',
+      image: `${Startup}`,
     },
     { 
       id: 2,
-      title: 'Malbart App', 
-      description: `Projeto Utilizando React Native e Sequelizer, um app para decidir o melhor fim para o espetaculo Malbart.`,
-      alter: 'VeriTru Project',
+      title: 'SoS Advogados', 
+      description: `SoS Advogado, an app to hire lawyers wherever you are.Technologies: React Native, Mysql, Firebase, Sequelize.`,
+      alter: 'SoS Advogado',
       image: `${Veritru}`,
     },
     { 
       id: 3,
-      title: 'LoFo Project', 
-      description: `Logistics and Forwarding website built using
-      ReactJS to design and develop its front-end.`,
-      alter: 'LoFo Project',
-      image: `${Lofo}`,
+      title: 'Portal Noivas', 
+      description: `Portal Noivas, Website para cotação e organização do seu casamento.
+      Tecnologias: React, Redux, Prisma, Postgres.`,
+      alter: 'Portal Noivas',
+      image: `${Portfolio}`,
     },
     { 
       id: 4,
-      title: 'Startup Project', 
-      description: `A website portfolio project for the Startup Dev Team
-      built using MEVN stack to demonstrate the CRUD capabilities of the tech stack.`,
-      alter: 'Startup Project',
-      image: `${Startup}`,
+      title: 'MalbArt App', 
+      description: `Malbart App is designed to be used during the Malbart show where, depending on your choices, you can change the trajectory of the show.
+      Technologies: React Native, Sequelizer, Mysql.`,
+      alter: 'Malbart App',
+      image: `${malbart}`,
     },
     { 
       id: 5,
-      title: 'LaCalle Cafe', 
-      description: `A website project for the La Calle Cafe business
-      built using Wordpress and PHP with integrated SEO tools to help
-      the business ramp up its prospects and lead generation.`,
+      title: 'Solar Filter', 
+      description: `Solar filter, an app developed to discover the ideal sun filter for your skin, based on a facial reading, your face is processed by an AI, searching for skin tones similar to yours and suggesting the sun filter. Technologies: React Native, Sequelizer, Mysql, Python.`,
+      alter: 'Solar FIlter',
+      image: `${Lofo}`,
+    },
+    { 
+      id: 6,
+      title: 'Lexical Analyzer', 
+      description: `Lexical analyzer is responsible for transforming the source code into a sequence of tokens that will serve as input for the syntactic analyzer and the subsequent stages of the process of compiling or interpreting programming languages.`,
       alter: 'Startup Project',
       image: `${Lacalle}`,
     },
